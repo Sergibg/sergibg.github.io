@@ -26,22 +26,3 @@ main {
     text-align: center;
     overflow: scroll;
 }
-
-.author {
-    border-bottom: 1px solid LightGrey;
-    border-top: 1px solid LightGrey;
-    color: DarkGrey;
-    font-size: 14px;
-    font-weight: 200;
-}
-
-footer a {
-    background: red;
-    border: 1px solid red;
-    border-radius: 3px;
-    color: white;
-    display: inline-block;
-    margin: 10px;
-    padding: 14px;
-    text-decoration: none;
-}
