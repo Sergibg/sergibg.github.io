@@ -28,4 +28,29 @@ banner {
     background-position: bottom center;
     height: 300px;
     width: 100%;
-  }
+}
+
+banner h1 {
+    border: 3px solid white;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+main {
+    margin: 0 auto;
+    text-align: center;
+    overflow: scroll;
+}
+
+footer a {
+    background: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: none;
+}
